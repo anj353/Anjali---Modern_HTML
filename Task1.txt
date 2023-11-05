@@ -1,0 +1,12 @@
+TASK 1 : Five Features of HTML
+-------------------------------
+
+Cascading Style Sheets (CSS) Integration: HTML works in conjunction with CSS to control the presentation and styling of web content. By using CSS, you can define fonts, colors, layouts, and other visual aspects of your web pages, separating content from design.
+
+Metadata: HTML includes elements for adding metadata to web pages. Metadata provides information about the document, such as the document's character encoding, author, keywords, and a short description that search engines may use in search results.
+
+Scripting Support: HTML can incorporate scripting languages like JavaScript, allowing you to create dynamic and interactive web pages. JavaScript can be used to manipulate the DOM (Document Object Model), handle user interactions, and perform various client-side tasks.
+
+Responsive Design: HTML supports the creation of responsive web pages that adapt to different screen sizes and devices. You can use features like media queries and flexible layout techniques to ensure your content looks good on both desktop computers and mobile devices.
+
+Accessibility: HTML provides features and attributes for making web content more accessible to people with disabilities. You can add alt text to images, use semantic elements, and provide keyboard navigation options to improve accessibility and comply with web accessibility standards like WCAG (Web Content Accessibility Guidelines).

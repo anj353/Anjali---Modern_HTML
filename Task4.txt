@@ -1,0 +1,8 @@
+TASK 4 : List any 3 ways which helps us in improving  the accessibility of HTML
+---------------------------------------------------------------------------------
+
+Semantic HTML: Use semantic HTML elements (e.g., <header>, <nav>, <main>, <article>, <footer>) to provide a clear and meaningful structure to your content. These elements help screen readers and assistive technologies understand the organization of your web page.
+
+Alt Text for Images: Always include descriptive alternative text (alt text) for images using the alt attribute within the <img> element. Alt text provides a textual description of the image, allowing users with visual impairments to understand its content and purpose.
+
+Proper Labeling for Forms: Ensure all form fields have proper and associated labels. Use the <label> element with the for attribute to connect labels with form input elements. This helps screen reader users understand the purpose of each form field and navigate the form more easily.
